@@ -1,0 +1,26 @@
+.header1 {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(78, 212, 1341);
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.home,
+.symptoms,
+.IndiaReport,
+.status {
+  color: white;
+  font-size: 22px;
+  /* margin: 10px; */
+  margin-right: 10px;
+  background-color: rgb(179, 80, 165);
+  margin-top: 15px;
+  margin-bottom: 44px;
+}
+.image {
+  margin-right: 51%;
+  width: 116px;
+  height: 100px;
+}

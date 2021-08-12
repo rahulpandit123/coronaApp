@@ -1,0 +1,44 @@
+.hd {
+    width: 250px;
+    height: 40px;
+    margin-left: 30px;
+    color:white;
+    background-color: rgb(72, 80, 80);
+
+}
+.heading {
+    color:rgb(58, 13, 110);
+    margin-left: 35%;
+}
+.covidtable {
+    width: 100%;
+  border-collapse: collapse;
+}
+tr, th ,td {
+    border: 1px solid black;
+}
+tr:hover {
+    background-color: #ffa;
+}
+.table-responsive {
+    max-height: 700px;
+    box-shadow: rgba(0,0,0,0.25) 0px 25px 50px -12px;
+}
+.container-fluid {
+    width: 90%;
+    margin: auto;
+}
+.thead-dark {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.table tr td:hover {
+    background-color: rgb(117,223,122);
+    color:aliceblue;
+    border: 0.5px solid rgb(12,12,12);
+}
+.table tr td:hover:nth-child(5) {
+    background-color: rgb(231,82,115);
+    color: aliceblue;
+    border: 0.5px solid rgb(12,12,12);
+}

@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.header1 {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(78, 212, 1341);
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+/* .home, */
+.symptoms,
+.IndiaReport,
+.status,
+.home {
+  color: white;
+  font-size: 22px;
+  margin: 10px;
+  margin-right: 10px;
+  background-color: rgb(34 31 31);
+  margin-top: 15px;
+  margin-bottom: 44px;
+  text-decoration: none;
+}
+.image {
+  margin-right: 51%;
+  width: 116px;
+  height: 100px;
+}
+ul,
+li {
+  list-style-type: none;
+}
+.head {
+  display: flex;
+  margin: 20px;
+  width: 45%;
+}
+.page {
+  background-color: rgb(34, 31, 31);
+  color: white;
+}

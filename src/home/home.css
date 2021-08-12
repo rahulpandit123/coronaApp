@@ -1,0 +1,21 @@
+.mask1 {
+  height: 350px;
+  width: 70%;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  border: chartreuse 40px solid;
+}
+.home {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+}
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}

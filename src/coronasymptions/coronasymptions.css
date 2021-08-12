@@ -1,0 +1,53 @@
+.currentdata {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.youtube {
+  margin-left: auto;
+  text-align: center;
+  width: 80%;
+  margin-top: 8rem;
+  margin-right: auto;
+}
+
+.title {
+  text-align: center;
+  font-size: 36px;
+  color: hotpink;
+}
+.span {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  /* margin: 20px; */
+  /* padding: 20px; */
+  background-image: aquamarine;
+  background-color: aliceblue;
+  color: green;
+}
+.hr {
+  width: 100%;
+  height: 15px;
+  color: red;
+  margin-top: 25px;
+}
+.sys {
+  font-size: 33px;
+  /* margin-left: auto; */
+  margin-right: auto;
+  margin-left: 469px;
+  color: red;
+}
+.syscro {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: chartreuse;
+}
+.bold {
+  background-color: rgb(219, 58, 30);
+  font-size: 25px;
+  text-align: center;
+}
